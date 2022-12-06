@@ -4,31 +4,43 @@
       "id": 1,
       "name": "Mr. Cute",
       "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
-      "votes": 0
+      "votes": 400
     },
     {
       "id": 2,
       "name": "Mx. Monkey",
       "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
-      "votes": 0
+      "votes": 404
     },
     {
       "id": 3,
       "name": "Ms. Zebra",
       "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
-      "votes": 0
+      "votes": 44
     },
     {
       "id": 4,
       "name": "Dr. Lion",
       "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
-      "votes": 0
+      "votes": 140
     },
     {
       "id": 5,
       "name": "Mme. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
-      "votes": 0
+      "votes": 200
+    },
+    {
+      "name": "Mr.cat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKr5wT7rfkjkGvNeqgXjBmarC5ZNoZs-H2uMpML8O7Q4F9W-IlUQibBT6IPqyvX45NOgw&usqp=CAU",
+      "votes": 100,
+      "id": 6
+    },
+    {
+      "name": "Doggy Zee",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=640:*",
+      "votes": 440,
+      "id": 7
     }
   ]
 }
